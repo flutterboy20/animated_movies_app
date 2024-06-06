@@ -11,7 +11,7 @@ class App extends StatelessWidget {
       title: 'Flutter Boy',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.purple,
         textTheme: GoogleFonts.poppinsTextTheme(),
       ),
       home: const SplashScreen(),
